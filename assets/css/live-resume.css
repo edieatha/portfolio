@@ -10405,8 +10405,8 @@ aside .profile-img-wrapper {
 }
 
 aside .profile-img-wrapper img {
-    width: 60px;
-    height: 60px;
+    width: 120px;
+    height: 120px;
     border-radius: 50%;
 }
 
@@ -10419,7 +10419,7 @@ aside .profile-name {
 
 aside .profile-designation {
     padding: 5px 25px;
-    font-size: 12px;
+    font-size: 15px;
     line-height: 20px;
     font-weight: 500;
     margin-bottom: 10px;
@@ -10545,7 +10545,7 @@ aside .widget.card .widget-title {
 }
 
 .btn-hire-me {
-    font-size: 8px;
+    /* font-size: 8px; */
     font-weight: 500;
     line-height: 1;
     padding: 8px 12px;
@@ -10711,14 +10711,14 @@ main .section-title {
 }
 
 main .section-subtitle {
-    font-size: 12px;
+    /* font-size: 12px; */
     font-weight: 500;
     line-height: 1;
     color: #0067f6;
 }
 
 main p {
-    font-size: 13px;
+    font-size: 14px;
     line-height: 1.538;
     font-weight: 300;
 }
@@ -10785,7 +10785,7 @@ main .time-line-item:last-child {
 
 main .time-line-item .badge {
     padding: 6px 10px;
-    font-size: 8px;
+    /* font-size: 8px; */
     font-weight: 500;
     line-height: 1;
     border-radius: 2px;
@@ -10793,14 +10793,14 @@ main .time-line-item .badge {
 }
 
 main .time-line-item-title {
-    font-size: 12px;
+    /* font-size: 12px; */
     font-weight: 700;
     line-height: 1;
     margin-bottom: 2px;
 }
 
 main .time-line-item-subtitle {
-    font-size: 10px;
+    /* font-size: 10px; */
     font-weight: 500;
     line-height: 1.6;
     color: #a7a7a7;
@@ -10808,7 +10808,7 @@ main .time-line-item-subtitle {
 }
 
 main .time-line-item-content {
-    font-size: 10px;
+    font-size: 12px;
     font-weight: 300;
     line-height: 1.6;
     margin-bottom: 0;
