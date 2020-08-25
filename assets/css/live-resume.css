@@ -10808,7 +10808,7 @@ main .time-line-item-subtitle {
 }
 
 main .time-line-item-content {
-    font-size: 12px;
+    font-size: 13px;
     font-weight: 300;
     line-height: 1.6;
     margin-bottom: 0;
@@ -10855,14 +10855,14 @@ main .service-card .service-icon {
 }
 
 main .service-card .service-title {
-    font-size: 12px;
+    font-size: 15px;
     font-weight: bold;
     line-height: 1;
     margin-bottom: 8px;
 }
 
 main .service-card .service-description {
-    font-size: 10px;
+    font-size: 12px;
     font-weight: 300;
     max-width: 180px;
     margin-bottom: 0;
