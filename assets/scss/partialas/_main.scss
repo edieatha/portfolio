@@ -27,7 +27,7 @@ main {
     }
 
     p {
-        font-size: 13px;
+        font-size: 1rem;
         line-height: 1.538;
         font-weight: $font-weight-light;
     }
@@ -104,14 +104,14 @@ main {
             }
 
             &-title {
-                font-size: 12px;
+                font-size: 1rem;
                 font-weight: $font-weight-bold;
                 line-height: 1;
                 margin-bottom: 2px;
             }
 
             &-subtitle {
-                font-size: 10px;
+                font-size: 0.9rem;
                 font-weight: $font-weight-medium;
                 line-height: 1.6;
                 color: #a7a7a7;
@@ -119,7 +119,7 @@ main {
             }
 
             &-content {
-                font-size: 10px;
+                font-size: 1rem;
                 font-weight: $font-weight-light;
                 line-height: 1.6;
                 margin-bottom: 0;
@@ -163,14 +163,14 @@ main {
         }
 
         .service-title {
-            font-size: 12px;
+            font-size: 1rem;
             font-weight: bold;
             line-height: 1;
             margin-bottom: 8px;
         }
 
         .service-description {
-            font-size: 10px;
+            font-size: 1rem;
             font-weight: $font-weight-light;
             max-width: 180px;
             margin-bottom: 0;
